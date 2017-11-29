@@ -15,7 +15,7 @@ go get -v -u github.com/FreifunkBremen/yanic
 
 ### Yanic cfg setzen
 cd /etc
-wget https://github.com/Freifunk-Nord/nord-yanic-cfg/raw/master/etc/yanic.conf
+wget https://raw.githubusercontent.com/Tarnatos/kiel-yanic-cfg/master/etc/yanic.conf
 
 ###Log Files
 mkdir -p /var/lib/yanic
